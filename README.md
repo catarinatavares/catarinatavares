@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**catarinatavares/catarinatavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Catarina Tavares!
 
-Here are some ideas to get you started:
+Eu sou uma desenvolvedora de sistemas com foco em PHP e .Net. Sou apaixonada por criar soluções úteis e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+
+Aqui estão algumas coisas que aprendi ao longo de minha carreira.
+
+* HTML5
+* CSS
+* JavaScript
+* PHP 
+* C#
+* WordPress
+* Git/ GitHub
+* Jira
+* Azure Board
+* Azure DevOps
+* Azure Functions
+* Postman
+* Swagger
+* Docker
+  
+## Banco de dados
+
+* MySQL
+* MySQL Server
+* PL/SQL
+  
+## Frameworks
+
+* .Net Core
+* Asp .Net
+* Yii Framework
+* CodeIgniter
+* Cake
+
+## IDEs
+
+* Microsoft Visual Studio
+* VSCode
+
+## Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/catarinatsbarbosa) 
+
+ 
